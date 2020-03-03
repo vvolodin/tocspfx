@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="" pageAlignment="none" x="0px" y="0px" width="20px" height="20px" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
+  <defs/>
+  <g type="LAYER" name="workspace" id="workspace" locked="true"/>
+  <g type="LAYER" name="Layer 01" id="Layer 01">
+    <path transform="matrix(1 0 0 1 19.999999999999982 0)" width="19.999999999999993" height="20" stroke-width="1.0189836570713258" stroke-miterlimit="3" stroke="#000000" fill="#FFFFFF" opacity="0.13" d="M1.0658141036401503e-14,0 L-19.999999999999982,20 "/>
+    <path transform="matrix(1 0 0 1 -8.881784197001252e-16 0)" width="9.64" height="9.64" stroke-width="1.0522168092707778" stroke-miterlimit="3" stroke="#000000" fill="#FFFFFF" opacity="0.13" d="M8.881784197001252e-16,0 L9.64,9.64 "/>
+    <path transform="matrix(1 0 0 1 10.359999999999996 10.36)" width="9.999999999999996" height="10" stroke-width="1.037711480649507" stroke-miterlimit="3" stroke="#000000" fill="#FFFFFF" opacity="0.13" d="M3.552713678800501e-15,0 L10,10 "/>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  // Configure glob patterns for excluding files and folders in the file explorer.
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/bower_components": true,
+    "**/coverage": true,
+    "**/lib-amd": true,
+    "src/**/*.scss.ts": true
+  },
+  "typescript.tsdk": ".\\node_modules\\typescript\\lib",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#003822",
+    "activityBar.activeBorder": "#9b00ff",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#9b00ff",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "titleBar.activeBackground": "#000503",
+    "titleBar.inactiveBackground": "#00050399",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "statusBar.background": "#000503",
+    "statusBarItem.hoverBackground": "#003822",
+    "statusBar.foreground": "#e7e7e7"
+  },
+  "peacock.color": "#000503"
+}
