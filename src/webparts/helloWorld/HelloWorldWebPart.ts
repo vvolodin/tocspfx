@@ -18,16 +18,20 @@ import * as strings from 'HelloWorldWebPartStrings';
 // import '../../client/scripts-es2015';
 // import '../../client/styles-es2015';
 // import '../../client/main-es2015';
-import '../../client/runtime-es2015';
-import '../../client/polyfills-es2015';
-import '../../client/scripts';
-import '../../client/styles-es2015';
-import '../../client/main-es2015';
+// import '../../client/runtime-es2015';
+// import '../../client/polyfills-es2015';
+// import '../../client/scripts';
+// import '../../client/styles-es2015';
+// import '../../client/main-es2015';
 
 // import 'runtime';
 // import 'scripts';
 // import 'styles';
 // import 'main';
+import 'polyfills';
+import 'scripts';
+import 'spfx';
+
 
 export interface IHelloWorldWebPartProps {
   description: string;
