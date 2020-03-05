@@ -14,13 +14,20 @@
   "externals": {
     "polyfills": {
       "path": "./src/client/polyfills-es2015.js",
-      "globalName": "$_polyfills"
+      "globalName": "polyfills"
+    },
+    "spfx": {
+      "path": "./src/client/main-es2015.js",
+      "globalName": "spfx"
+    },
+    "scripts": {
+      "path": "./src/client/scripts.js",
+      "globalName": "scripts"
     },
     "runtime": {
       "path": "./src/client/runtime-es2015.js",
       "globalName": "$_runtime"
     },
-    "scripts": "./src/client/scripts.js",
     "styles": "./src/client/styles-es2015.js",
     "main": "./src/client/main-es2015.js"
   },
